@@ -104,8 +104,8 @@ Windows example:
 
 ```bash
 python -m hermes_railway_migrator import \
-  --input C:/Users/craig/Downloads/railway_sessions.json \
-  --db C:/Users/craig/AppData/Local/hermes/state.db
+  --input C:/Users/XXXXXXX/Downloads/railway_sessions.json \
+  --db C:/Users/XXXXXXX/AppData/Local/hermes/state.db
 ```
 
 Linux/macOS example:
